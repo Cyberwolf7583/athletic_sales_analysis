@@ -1,9 +1,14 @@
-# athletic_sales_analysis # 
+# Athletic Sales Analysis
 
-[source code](https://github.com/degarza1/athletic_sales_analysis)
+## Source Code
 
-## Citations ##
+The source code can be found in:
+`athletic_sales_analysis/starter code/05-Pandas-Data-Preparation-2/Starter_Code/athletic_sales_analysis.ipynb`
 
-1.) Chat GPT LINK HERE ---> [text](https://chatgpt.com/c/67326574-ea30-800e-87b8-a4f4171ba561)
+## Citations
 
-2.) I also used the week 5 module activities as a guide to help me understand the data and the steps needed to complete the assigment. 
+1. [ChatGPT Conversation](https://chatgpt.com/c/67326574-ea30-800e-87b8-a4f4171ba561)
+
+2. Week 5 module activities were used as a reference guide to understand the data and complete the assignment steps.
+
+
